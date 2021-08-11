@@ -1,0 +1,5 @@
+E:\Repository\CsharpSkill\obj\Debug\net5.0\CsharpSkill.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\CsharpSkill\obj\Debug\net5.0\CsharpSkill.AssemblyInfoInputs.cache
+E:\Repository\CsharpSkill\obj\Debug\net5.0\CsharpSkill.AssemblyInfo.cs
+E:\Repository\CsharpSkill\obj\Debug\net5.0\CsharpSkill.csproj.CoreCompileInputs.cache
+E:\Repository\CsharpSkill\obj\Debug\net5.0\CsharpSkill.csproj.AssemblyReference.cache

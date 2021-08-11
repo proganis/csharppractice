@@ -1,0 +1,16 @@
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.exe
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.deps.json
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.runtimeconfig.json
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.runtimeconfig.dev.json
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.dll
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\ref\AugThird.dll
+E:\Repository\CsharpSkill\AugThird\bin\Debug\net5.0\AugThird.pdb
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.csproj.AssemblyReference.cache
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.AssemblyInfoInputs.cache
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.AssemblyInfo.cs
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.csproj.CoreCompileInputs.cache
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.dll
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\ref\AugThird.dll
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.pdb
+E:\Repository\CsharpSkill\AugThird\obj\Debug\net5.0\AugThird.genruntimeconfig.cache

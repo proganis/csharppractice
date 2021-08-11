@@ -1,0 +1,16 @@
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.exe
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.deps.json
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.runtimeconfig.json
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.runtimeconfig.dev.json
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.dll
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\ref\Swapping.dll
+E:\Repository\CsharpSkill\Swapping\bin\Debug\net5.0\Swapping.pdb
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.csproj.AssemblyReference.cache
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.AssemblyInfoInputs.cache
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.AssemblyInfo.cs
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.csproj.CoreCompileInputs.cache
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.dll
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\ref\Swapping.dll
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.pdb
+E:\Repository\CsharpSkill\Swapping\obj\Debug\net5.0\Swapping.genruntimeconfig.cache
