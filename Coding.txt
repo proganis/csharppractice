@@ -1,0 +1,19 @@
+ #region for vowel
+            string findvowel = "vowel";
+            int charlength = findvowel.Length;
+            char[] charArray = new char[charlength];
+            charArray = findvowel.ToCharArray();
+
+            int vowelCount = 0;
+            for (int i = 0; i < charArray.Length; i++)
+            {
+                Console.WriteLine(charArray[i]);
+                if (charArray[i]=='a' || charArray[i] == 'e' || charArray[i] == 'i' || charArray[i] == 'o' || charArray[i] == 'u' || charArray[i] == 'A' || charArray[i] == 'E' || charArray[i] == 'I' || charArray[i] == 'O' || charArray[i] == 'U')
+                {
+                    vowelCount+=1;
+                }
+            }
+
+            Console.WriteLine(vowelCount);
+
+            #endregion
