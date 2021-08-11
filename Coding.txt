@@ -17,3 +17,22 @@
             Console.WriteLine(vowelCount);
 
             #endregion
+
+
+
+
+   string binarynumber = "10101";
+            int charlength = binarynumber.Length;
+            char[] charArray = new char[charlength];
+            charArray = binarynumber.ToCharArray();
+
+            double decimalvalue = 0;
+            for (int i = 0; i < charArray.Length; i++)
+            {
+                if (charArray[i] == '1')
+                {
+                    decimalvalue += Math.Pow(2, charArray.Length - i - 1);
+                }
+            }
+
+            Console.WriteLine(decimalvalue);
