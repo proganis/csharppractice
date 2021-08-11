@@ -43,8 +43,8 @@
 
 
 #region subtract two numbers
-            string firstNumber = "91";
-            string secondNumber = "19";
+            string firstNumber = "987654321";
+            string secondNumber = "123456789";
             string result = string.Empty;
             if (Convert.ToInt64(firstNumber)>Convert.ToInt64(secondNumber))
             {
@@ -54,13 +54,10 @@
                     {
                         //Convert.ToInt64(firstNumber[firstNumber.Length - 1 - i]) = Convert.ToInt64(firstNumber[firstNumber.Length - 1 - i]) + 10;
                         result= Convert.ToString(firstNumber[firstNumber.Length - 1 - i]+10 - secondNumber[secondNumber.Length - 1 - i]);
+                        string replacement = Convert.ToString(secondNumber[secondNumber.Length - 2 - i]);
+                        replacement = Convert.ToString(Convert.ToInt32(replacement) + 1);
                         int index = secondNumber.IndexOf(secondNumber[secondNumber.Length - 1 - i-1]);
-                        int replacement = Convert.ToInt32(secondNumber[secondNumber.Length - 1 - i]) + 1;
-
                         secondNumber = secondNumber.Remove(index, 1).Insert(index, replacement.ToString());
-                        //secondNumber[index] = secondNumber[secondNumber.Length - 1 - i] + 1;
-                        //Console.WriteLine(index);
-                        //secondNumber[secondNumber.Length - 1 - i-1] = secondNumber[secondNumber.Length - 1 - i] + 1;
                     }
                     else
                     {
