@@ -108,4 +108,28 @@
                 return 0;
             }
 
+
+ string country = "BANGLADESH";
+            var result = "";
+            char[] array = country.ToCharArray();
+            char[] secondarray = country.ToCharArray();
+            for (int i = 0; i < 2; i++)
+            {
+                array[i] = array[array.Length - 1-i];
+                array[array.Length - 1 - i] = secondarray[i];
+            }
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                result += array[i];
+            }
+
+
+            //array[array.Length - 1] = "B";
+            //for (int i = 0; i < country.Length; i++)
+            //{
+
+            //}
+            Console.WriteLine(result);
+
             #endregion
